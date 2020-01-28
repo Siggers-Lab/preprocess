@@ -18,7 +18,6 @@ DIR: ~/perl = /projectnb/siggers/perl\_master
   1. To sign in login in with the following credentials:
     1. Username: [tsiggers@bu.edu](mailto:tsiggers@bu.edu)
 
-Password: SDPotte!5
 
 1.
   1.
